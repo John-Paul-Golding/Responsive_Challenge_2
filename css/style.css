@@ -1,0 +1,24 @@
+/*Adding some responsive design*/
+/*Responsive design for a mobile device*/
+@media only screen and (min-width:360px) {
+        nav,h1,ul,div{
+
+}
+
+/*Responsive design for a tablet device*/
+@media only screen and (min-width:768px) {
+        nav,h1,ul,div{
+
+}
+
+/*RESPONSIVE DESIGN FOR A LARGE DESKTOP*/
+@media only screen and (min-width:992px) {
+         nav,h1,ul,div{
+
+}
+
+/*Responsive design for desktop*/
+@media only screen and (min-width: 1200px) {
+        nav,h1,ul,div{
+
+}
